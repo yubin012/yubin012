@@ -36,10 +36,18 @@ AI System & Backend Developer 🌱 | Federated Learning Researcher 🧩 | Proble
 ---
 
 ## 🏆 Awards
-- 🥇 Tmax SW Academy Project — **Grand Prize (최우수상)**  
-- 🥇 University AI Hackathon — **최우수상**  
-- 🏅 ACK 2023 Academic Conference — **우수상**  
-- 🥉 Hanium 2024 — **동상 (한국정보산업연합회장상)**  
+ 🥇 **Tmax SW 아카데미 프로젝트 — 대상(최우수상)**  
+  *AI 기반 스마트 육아 시스템 ‘딩글’ 개발*
+
+- 🥇 **교내 AI 해커톤 — 최우수상**  
+  *청각장애인을 위한 AI 기반 스마트 육아 시스템*
+
+- 🏅 **한국정보처리학회 ACK 2023 — 우수상**  
+  *AI 자율주행 가정용 로봇 연구*
+
+- 🥉 **2024 한이음 공모전 (한국정보산업연합회장상)**  
+  *생성형 AI 여행 플랫폼 ‘JourneyBuddy’*
+
 
 
 ---
@@ -54,3 +62,4 @@ AI System & Backend Developer 🌱 | Federated Learning Researcher 🧩 | Proble
 📧 pyb2675@dankook.ac.kr  
 🔗 [Velog](https://velog.io/@yubin012)  
 🐰🍓 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" />
