@@ -51,18 +51,12 @@ Spring Boot + MySQL 서버 연동으로 기록 관리 및 웹-앱 통합.
 
 ---
 
-### 🌱 Plant Management App  
-안드로이드 기반 IoT 식물 관리 앱.  
-Java + SQLite, 식물 상태 모니터링 및 알림 기능 제공.  
-
----
-
 ## 🏆 Awards
 - 🥇 **Tmax SW Academy Project — Grand Prize (최우수상)**  
 - 🥇 **University AI Hackathon — 최우수상**  
 - 🏅 **ACK 2023 Academic Conference — 우수상**  
 - 🥉 **Hanium Contest 2024 (한국정보산업연합회장상)**  
-- 🏅 **Hanium Contest 2023 — 입상**  
+
 
 ---
 
