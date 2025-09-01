@@ -1,6 +1,6 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=FFB6C1&height=180&section=header&text=Hi!%20I'm%20Yubin%20🍓&fontSize=40&fontColor=ffffff" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=FFB6C1&height=180&section=header&text=🐰🍓 Hi there, I'm Yubin 🍓🐰&fontSize=40&fontColor=ffffff" />
 
-# 🐰🍓 Hi there, I'm Yubin 🍓🐰  
+  
 
 AI System & Backend Developer 🌱 | Federated Learning Researcher 🧩 | Problem Solver 💡  
 
