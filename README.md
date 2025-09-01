@@ -27,10 +27,10 @@
 ---
 
 ## 🚀 Projects
-- 🍼 **Dingle** — AI 기반 육아 지원 시스템 (CNN + YOLOv8, FastAPI)  
+- 🍼 **Dingle** — AI 기반 육아 지원 시스템 (CNN + YOLOv8, FastAPI, Spring)  
 - 🤖 **AI Autonomous Home Robot** — SLAM + ROS + FastAPI + Flutter  
 - ✈️ **JourneyBuddy** — 생성형 AI 여행 일정 추천 (GPT API, React, FastAPI)  
-- 📔 **AR Diary App** — Unity + Spring Boot 기반 AR 기록 서비스  
+
 
 ---
 ## 🏆 Awards
@@ -45,9 +45,6 @@
 
 - 🥉 **2024 한이음 공모전 (한국정보산업연합회장상)**  
   → *JourneyBuddy*: GPT API 활용 **개인 맞춤형 여행 일정 추천 서비스**  
-
-- 🏅 **2023 한이음 공모전 — 입상**  
-  → *AR Diary App*: Unity와 Spring Boot를 결합한 **AR 다이어리 애플리케이션**  
 
 ---
 
