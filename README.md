@@ -54,21 +54,18 @@ AI System & Backend Developer 🌱 | Federated Learning Researcher 🧩 | Proble
 ## 📊 GitHub Stats
 <div align="center">
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=yubin012&show_icons=true&theme=rose_pine)  
-![GitHub Streak](https://streak-stats.demolab.com?user=yubin012&theme=rose_pine&hide_border=true)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yubin012&layout=donut&theme=rose_pine)  
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=yubin012&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=yubin012&show_icons=true&theme=calm_pink&hide_border=true)  
+![GitHub Streak](https://streak-stats.demolab.com?user=yubin012&theme=calm_pink&hide_border=true)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yubin012&layout=compact&theme=calm_pink&hide_border=true)  
 
 </div>
 
-
 ---
 
-## 🌸 Connect with me
-📧 pyb2675@dankook.ac.kr  
-🔗 [Velog](https://velog.io/@yubin012)  
+## 🌸 Connect
+📧 **pyb2675@dankook.ac.kr**  
+🔗 [GitHub](https://github.com/yubin012) | [Velog](https://velog.io/@yubin012)  
 
 <p align="center">
-  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="160px"/>
+  <img src="https://media.giphy.com/media/MDJ9IbxxvDUQM/giphy.gif" width="160px"/>
 </p>
