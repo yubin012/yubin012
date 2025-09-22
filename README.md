@@ -47,19 +47,3 @@
   → *JourneyBuddy*: GPT API 활용 **개인 맞춤형 여행 일정 추천 서비스**  
 
 ---
-
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yubin012&show_icons=true&theme=rose_pine&hide_border=true&count_private=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yubin012&layout=compact&theme=rose_pine&hide_border=true" height="150"/>
-</p>
-
----
-
-## 🌸 Connect
-📧 **pyb2675@dankook.ac.kr**  
-🔗 [GitHub](https://github.com/yubin012) · [Velog](https://velog.io/@yubin012)  
-
-<p align="center">
-  <img src="https://media.giphy.com/media/MDJ9IbxxvDUQM/giphy.gif" width="150px"/>
-</p>
