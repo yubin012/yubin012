@@ -1,7 +1,7 @@
 <h2 align="center">🍓🐰 Hi, I'm Yubin 🐰🍓</h2>
 
 <p align="center">AI & Backend Developer | 서비스 기획과 개발을 함께 꿈꾸는 주니어 🌱</p>
----
+
 
 ## 👩🏻‍💻 About Me
 - 🎓 Senior @ **Dankook Univ. (Mobile System Engineering)**  
