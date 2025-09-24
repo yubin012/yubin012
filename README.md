@@ -2,7 +2,7 @@
 
 <p align="center">AI & Backend Developer | 서비스 기획과 개발을 함께 꿈꾸는 주니어 🌱</p>
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/566bce8b-9641-48fe-a00e-207d354b54b8" width="100" height="100" style="border-radius:50%;" />
+  <img src="https://github.com/user-attachments/assets/566bce8b-9641-48fe-a00e-207d354b54b8" width="200" height="200" style="border-radius:50%;" />
 </div>
 
 ---
