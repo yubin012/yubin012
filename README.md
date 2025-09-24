@@ -1,10 +1,9 @@
 <h2 align="center">🍓🐰 Hi, I'm Yubin 🐰🍓</h2>
 
 <p align="center">AI & Backend Developer | 서비스 기획과 개발을 함께 꿈꾸는 주니어 🌱</p>
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/566bce8b-9641-48fe-a00e-207d354b54b8" width="300" height="400" style="border-radius:50%;" />
-</div>
-
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/566bce8b-9641-48fe-a00e-207d354b54b8" width="120" height="120" style="border-radius:50%;">
+</p>
 ---
 
 ## 👩🏻‍💻 About Me
